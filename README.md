@@ -41,27 +41,21 @@
 </th>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/15.jpg?raw=true
-" width="600" height="500" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/15.jpg?raw=true" width="600" height="500" /></p>
 </td>
 <td></td>
 </tr>
 
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/16.jpg?raw=true
-
-" width="600" height="500" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/16.jpg?raw=true" width="600" height="500" /></p>
 </td>
 <td></td>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/17.jpg?raw=true
-
-" width="600" height="500" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/17.jpg?raw=true" width="600" height="500" /></p>
 </td>
 <td></td>
 </tr>
-
 </table>
 <p>国计民生</p>
 <p>国家战略十五年起步，三十年成型。不谋全局者不足以谋一域，不谋万世者不足以谋一时
