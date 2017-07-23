@@ -57,7 +57,7 @@
 <tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/17.jpg?raw=true
 
-" width="600" height="500" />2</p>
+" width="600" height="500" /></p>
 </td>
 <td></td>
 </tr>
