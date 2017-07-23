@@ -43,7 +43,7 @@
 </th>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/16.jpg?raw=true" width="400" height="150" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/16.jpg?raw=true" width="400" height="250" /></p>
 </td>
 <td></td>
 </tr>
