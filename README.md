@@ -55,7 +55,7 @@
 <p><a href="http://mp.weixin.qq.com/s/G-Chhz4BBucfQ6ZfbQx41A">国家战略十五年起步，三十年成型。不谋全局者不足以谋一域，不谋万世者不足以谋一时
 </a></p>
  
-<p><a href="lhttp://mp.weixin.qq.com/s/u_ox8pRIUFkIw-P_Xwpb_A">经营方式去西方化，只是第一步，文化紧随其后。</a>
+<p><a href="http://mp.weixin.qq.com/s/u_ox8pRIUFkIw-P_Xwpb_A">经营方式去西方化，只是第一步，文化紧随其后。</a>
 </P>
 
 					
