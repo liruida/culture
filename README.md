@@ -63,12 +63,12 @@
 </tr>
 
 </table>
-#国计民生
-[国家战略十五年起步，三十年成型。不谋全局者不足以谋一域，不谋万世者不足以谋一时
-](http://mp.weixin.qq.com/s/G-Chhz4BBucfQ6ZfbQx41A)
+<p>国计民生</p>
+<p>国家战略十五年起步，三十年成型。不谋全局者不足以谋一域，不谋万世者不足以谋一时
+(http://mp.weixin.qq.com/s/G-Chhz4BBucfQ6ZfbQx41A)</p>
  
-[经营方式去西方化，只是第一步，文化紧随其后。
-](http://mp.weixin.qq.com/s/u_ox8pRIUFkIw-P_Xwpb_A)
+<p>经营方式去西方化，只是第一步，文化紧随其后。
+(http://mp.weixin.qq.com/s/u_ox8pRIUFkIw-P_Xwpb_A)</P>
 
 					
       
