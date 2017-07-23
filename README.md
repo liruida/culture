@@ -17,20 +17,20 @@
 </th>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/12.jpg?raw=true" width="600" height="500" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/12.jpg?raw=true" width="600" height="400" /></p>
 </td>
 <td></td>
 </tr>
 
 <tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/13.jpg?raw=true
-" width="600" height="500" /></p>
+" width="600" height="400" /></p>
 </td>
 <td></td>
 </tr>
 <tr>
 <td><p> <img src="https://github.com/liruida/cangku1/blob/master/14.jpg?raw=true
-" width="600" height="500" />2</p>
+" width="600" height="400" />2</p>
 </td>
 <td></td>
 </tr>
@@ -43,12 +43,12 @@
 </th>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/16.jpg?raw=true" width="600" height="500" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/16.jpg?raw=true" width="600" height="400" /></p>
 </td>
 <td></td>
 </tr>
 <tr>
-<td><p> <img src="https://github.com/liruida/cangku1/blob/master/17.jpg?raw=true" width="600" height="500" /></p>
+<td><p> <img src="https://github.com/liruida/cangku1/blob/master/17.jpg?raw=true" width="600" height="400" /></p>
 </td>
 <td></td>
 </tr>
